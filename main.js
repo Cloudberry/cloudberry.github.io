@@ -1,1 +1,1 @@
-// gtag('config', 'G-759YDBZZPV');
+gtag('config', 'G-759YDBZZPV');
